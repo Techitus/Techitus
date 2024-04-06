@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/Canius-p">
-    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Its+me+Kamal+Pau-dell">
+    <img src="https://readme-typing-svg.herokuapp.com?color=black&size=26&center=true&vCenter=true&width=900&lines=Hi%2C+Its+me+Kamal+Paudel">
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
